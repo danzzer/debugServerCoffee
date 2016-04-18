@@ -1,0 +1,1 @@
+console.log "should not be watched by Watcher"
